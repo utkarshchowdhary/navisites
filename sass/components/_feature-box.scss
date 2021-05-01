@@ -12,9 +12,9 @@
   }
 
   &__icon {
+    display: inline-block;
     font-size: 6rem;
     margin-bottom: 0.5rem;
-    display: inline-block;
     background-image: linear-gradient(to right, $light-green, $dark-green);
     -webkit-background-clip: text;
     background-clip: text;
